@@ -22,7 +22,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 - Ouvrez une pull request pour discuter des changements proposés
 
 ## Auteur
-Ce projet a été créé par [https://github.com/cocorine999]Corine BOCOGA.
+Ce projet a été créé par [Corine BOCOGA](https://github.com/cocorine999).
 
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d'informations.
