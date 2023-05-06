@@ -1,5 +1,5 @@
 # Portfolio
-## Ce projet est un portfolio personnel pour présenter mes réalisations, compétences et expériences professionnelles. Il est construit à l'aide de HTML, CSS et JavaScript.
+Ce projet est un portfolio personnel pour présenter mes réalisations, compétences et expériences professionnelles. Il est construit à l'aide de HTML, CSS et JavaScript.
 
 ## Fonctionnalités
 - Présentation de mes projets réalisés avec des captures d'écran et des descriptions
